@@ -13,3 +13,18 @@ D:\C# Projects\HW21 MVC\ORM\obj\Debug\net5.0\ref\ORM.dll
 D:\C# Projects\HW21 MVC\ORM\obj\Debug\net5.0\ORM.pdb
 D:\C# Projects\HW21 MVC\ORM\obj\Debug\net5.0\ORM.genruntimeconfig.cache
 D:\C# Projects\HW21 MVC\ORM\obj\Debug\net5.0\ORM.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\bin\Debug\net5.0\ORM.deps.json
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\bin\Debug\net5.0\ORM.runtimeconfig.json
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\bin\Debug\net5.0\ORM.runtimeconfig.dev.json
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\bin\Debug\net5.0\ORM.dll
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\bin\Debug\net5.0\ref\ORM.dll
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\bin\Debug\net5.0\ORM.pdb
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ORM.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ORM.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ORM.AssemblyInfo.cs
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ORM.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ORM.dll
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ref\ORM.dll
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ORM.pdb
+C:\Users\user\Desktop\HW21 MVC - копия\ORM\obj\Debug\net5.0\ORM.genruntimeconfig.cache
