@@ -1,0 +1,61 @@
+﻿@{ 
+    Layout = "_Layout";
+}
+@using ORM
+
+
+
+    <div>
+        <table border="1" class="table">
+            <tr>
+                <td>
+                    Id
+                </td>
+                <td>
+                    Surename
+                </td>
+                <td>
+                    Name
+                </td>
+                <td>
+                    Lastname
+                </td>
+
+            </tr>
+
+            @{
+
+                var res = (IQueryable<Notes>)ViewData["NotesCol"];
+
+                int id = 1;
+
+                foreach (var item in res)
+                {
+                    <tr>
+                        <td>
+                            @id
+                        </td>
+                        <td>
+                            @item.Surename
+                        </td>
+                        <td>
+                            @item.Name
+                        </td>
+                        <td>
+                            @item.Lastname
+                        </td>
+                        <td>
+                            <div class="footbutton">
+                                <a href="/Home/Info/id=@item.Id"><span class="ftbtnspan">View Info</span></a>
+                            </div>
+                        </td>
+
+                    </tr>
+
+                    id++;
+                }
+            }
+
+        </table>
+    </div>
+
